@@ -1,0 +1,4 @@
+apple	Red
+berry	Blue
+kiwi	Green
+banana	Yellow
